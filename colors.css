@@ -1,0 +1,48 @@
+h1 {
+    color:yellow;
+    background-color:red;
+}
+
+h2 {
+    color:#0f993d; 
+    background-color:orange;
+}
+
+h3 {
+    color:#32c;
+    background-color:yellow;
+}
+
+h4 {
+    color:#1fa1f2b0;
+    background-color:green;
+}
+
+h5 {
+    color:#f009;
+    background-color:blue;
+}
+
+h6 {
+    color:rgb(57,230,57);
+    background-color:indigo;
+}
+
+p {
+    color:rgba(255,255,255,0.8);
+    background-color:purple;
+}
+
+.liOne {
+    color:hotpink;
+}
+
+.liThree{
+    background-color:peachpuff;
+}
+
+.oneThree {
+    border-width:5px;
+    border-style:solid;
+    border-color:green;
+}
